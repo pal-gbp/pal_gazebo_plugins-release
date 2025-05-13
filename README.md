@@ -1,3 +1,26 @@
+## pal_gazebo_plugins (humble) - 4.0.6-1
+
+The packages in the `pal_gazebo_plugins` repository were released into the `humble` distro by running `/usr/bin/bloom-release --track humble --rosdistro humble pal_gazebo_plugins -y` on `Tue, 13 May 2025 11:52:13 -0000`
+
+The `pal_gazebo_plugins` package was released.
+
+Version of package(s) in repository `pal_gazebo_plugins`:
+
+- upstream repository: https://github.com/pal-robotics/pal_gazebo_plugins.git
+- release repository: https://github.com/pal-gbp/pal_gazebo_plugins-release.git
+- rosdistro version: `4.0.5-1`
+- old version: `4.0.5-1`
+- new version: `4.0.6-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.24.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## pal_gazebo_plugins (humble) - 4.0.5-1
 
 The packages in the `pal_gazebo_plugins` repository were released into the `humble` distro by running `/usr/bin/bloom-release --track humble --rosdistro humble pal_gazebo_plugins` on `Mon, 18 Dec 2023 10:05:34 -0000`
